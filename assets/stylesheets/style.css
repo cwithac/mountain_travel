@@ -10,7 +10,7 @@
 }
 
 html {
-  font: normal 16px sans-seif;
+  font: normal 16px sans-serif;
   color: #555;
 }
 
@@ -67,7 +67,7 @@ header {
 }
 
 header h2 {
-  font-family: "Quicksand", sans-seif;
+  font-family: "Quicksand", sans-serif;
 }
 
 header nav {
@@ -101,12 +101,12 @@ header nav li {
 }
 
 .hero h1 {
-  font: bold 60px "Open Sans", sans-seif;
+  font: bold 60px "Open Sans", sans-serif;
   margin-bottom: 15px;
 }
 
 .hero h3 {
-  font: normal 28px "Open Sans", sans-seif;
+  font: normal 28px "Open Sans", sans-serif;
   margin-bottom: 40px;
 }
 
