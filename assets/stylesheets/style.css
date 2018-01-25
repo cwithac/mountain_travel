@@ -50,7 +50,7 @@ header {
 
   position: absolute;
   width: 100%;
-  
+
   justify-content: space-between;
   align-items: center;
   padding: 35px 100px 0;
@@ -103,7 +103,7 @@ header nav li {
 }
 
 .hero h3 {
-  font: normal28px "Open Sans", sans-seif;
+  font: normal 28px "Open Sans", sans-seif;
   margin-bottom: 40px;
 }
 
