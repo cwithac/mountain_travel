@@ -47,6 +47,10 @@ section {
 
 header {
   display: flex;
+
+  position: absolute;
+  width: 100%;
+  
   justify-content: space-between;
   align-items: center;
   padding: 35px 100px 0;
